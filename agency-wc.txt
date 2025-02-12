@@ -1,0 +1,153 @@
+Administrative Conference of the United States                                                      : 12427
+Advisory Council on Historic Preservation                                                           : 30958
+Special Inspector General for Afghanistan Reconstruction                                            : 10977
+African Development Foundation                                                                      : 32986
+United States Agency for Global Media                                                               : 64856
+Department of Agriculture                                                                           : 32676
+Air Transportation System Stabilization                                                             : 6294
+American Battle Monuments Commission                                                                : 12550
+Appalachian Regional Commission                                                                     : 85
+Architectural and Transportation Barriers Compliance Board                                          : 150888
+Arctic Research Commission                                                                          : 3667
+Armed Forces Retirement Home                                                                        : 6880
+Committee for Purchase From People Who Are Blind or Severely Disabled                               : 34085
+Central Intelligence Agency                                                                         : 13467
+Chemical Safety and Hazard Investigation Board                                                      : 25026
+Commission on Civil Rights                                                                          : 25108
+Department of Commerce                                                                              : 23402
+Commodity Futures Trading Commission                                                                : 679570
+Construction Industry Collective Bargaining Commission                                              : 739
+Consumer Financial Protection Bureau                                                                : 1230201
+Consumer Product Safety Commission                                                                  : 491023
+Council of the Inspectors General on Integrity and Efficiency                                       : 14401
+Court Services and Offender Supervision Agency for the District of Columbia                         : 30507
+Defense Nuclear Facilities Safety Board                                                             : 24738
+Department of Defense                                                                               : 1619137
+Delaware River Basin Commission                                                                     : 22550
+Denali Commission                                                                                   : 5568
+Office of Director of National Intelligence                                                         : 20987
+National Council on Disability                                                                      : 13240
+East-West Foreign Trade Board                                                                       : 184
+Department of Education                                                                             : 7031
+Election Assistance Commission                                                                      : 21538
+Emergency Oil and Gas Guaranteed Loan Board                                                         : 13743
+Emergency Steel Guarantee Loan Board                                                                : 13521
+National Commission for Employment Policy                                                           : 3619
+Department of Energy                                                                                : 1063125
+Joint Board for the Enrollment of Actuaries                                                         : 19531
+Environmental Protection Agency                                                                     : 12346728
+Equal Employment Opportunity Commission                                                             : 239585
+Executive Office of the President                                                                   : 4224
+Export-Import Bank of the United States                                                             : 36409
+Farm Credit Administration                                                                          : 226981
+Farm Credit System Insurance Corporation                                                            : 23405
+Federal Acquisition Regulatory Council                                                              : 615629
+Federal Acquisition Security Council                                                                : 5657
+Federal Communications Commission                                                                   : 1670424
+Federal Deposit Insurance Corporation                                                               : 649765
+Federal Election Commission                                                                         : 216256
+Federal Financial Institutions Examination Council                                                  : 23919
+Federal Financing Bank                                                                              : 2661
+Federal Housing Finance Agency                                                                      : 343164
+Federal Labor Relations Authority                                                                   : 30431
+Federal Maritime Commission                                                                         : 154581
+Federal Mediation and Conciliation Service                                                          : 68445
+Federal Mine Safety and Health Review Commission                                                    : 31812
+Federal Permitting Improvement Steering Council                                                     : 139
+Federal Procurement Regulations System                                                              : 0
+Federal Property Management Regulations System                                                      : 328738
+Administrative Committee of the Federal Register                                                    : 9766
+Federal Reserve System                                                                              : 1511661
+Federal Retirement Thrift Investment Board                                                          : 80775
+Federal Trade Commission                                                                            : 318437
+Federal Travel Regulation System                                                                    : 91885
+Financial Stability Oversight Council                                                               : 21812
+Commission of Fine Arts                                                                             : 22501
+First Responder Network Authority                                                                   : 1482
+Foreign Service Grievance Board                                                                     : 7301
+Foreign Service Impasse Disputes Panel                                                              : 57786
+Foreign Service Labor Relations Board                                                               : 57786
+General Services Administration                                                                     : 160773
+Government Accountability Office                                                                    : 48691
+Office of Government Ethics                                                                         : 133012
+Gulf Coast Ecosystem Restoration Council                                                            : 12087
+Harry S. Truman Scholarship Foundation                                                              : 9537
+Department of Health and Human Services                                                             : 33951
+Department of Homeland Security                                                                     : 581800
+Department of Housing and Urban Development                                                         : 20963
+Office of Independent Counsel                                                                       : 13455
+United States Institute of Peace                                                                    : 3710
+Inter-American Foundation                                                                           : 26999
+Department of Interior                                                                              : 41986
+United States Section United States and Mexico International Boundary and Water Commission          : 22206
+United States International Development Cooperation Agency                                          : 9765
+United States International Development Finance Corporation                                         : 25813
+Agency for International Development                                                                : 214826
+United States and Canada International Joint Commission                                             : 4513
+International Organizations Employees Loyalty Board                                                 : 2064
+United States International Trade Commission                                                        : 126176
+Interstate Commerce Commission                                                                      : 0
+James Madison Memorial Fellowship Foundation                                                        : 9972
+Japan-United States Friendship Commission                                                           : 3627
+Department of Justice                                                                               : 1203530
+Department of Labor                                                                                 : 27321
+Legal Services Corporation                                                                          : 67163
+National Commission on Libraries and Information Science                                            : 9743
+Library of Congress                                                                                 : 11751
+Office of Management and Budget                                                                     : 267031
+Marine Mammal Commission                                                                            : 12317
+Merit Systems Protection Board                                                                      : 43739
+Office for Micronesian Status Negotiations                                                          : 3632
+Military Compensation and Retirement Modernization Commission                                       : 68
+National Commission on Military, National, and Public Service                                       : 9641
+Millennium Challenge Corporation                                                                    : 13451
+Morris K. Udall and Stewart L. Udall Foundation                                                     : 8425
+National Aeronautics and Space Administration                                                       : 220999
+Corporation for National and Community Service                                                      : 174564
+National Archives and Records Administration                                                        : 139926
+National Capital Planning Commission                                                                : 26701
+National Counterintelligence Center                                                                 : 20268
+National Credit Union Administration                                                                : 379078
+National Crime Prevention and Privacy Compact Council                                               : 5640
+Office of National Drug Control Policy                                                              : 9277
+National Foundation on the Arts and the Humanities                                                  : 122052
+National Labor Relations Board                                                                      : 81302
+National Mediation Board                                                                            : 14164
+National Railroad Adjustment Board                                                                  : 1147
+National Railroad Passenger Corporation                                                             : 9075
+National Science Foundation                                                                         : 114515
+National Transportation Safety Board                                                                : 56225
+Office of Navajo and Hopi Indian Relocation                                                         : 50368
+Neighborhood Reinvestment Corporation                                                               : 4022
+Northeast Interstate Low-Level Radioactive Waste Commission                                         : 1778
+Nuclear Regulatory Commission                                                                       : 936596
+Nuclear Waste Technical Review Board                                                                : 9205
+Occupational Safety and Health Review Commission                                                    : 44242
+Oklahoma City National Memorial Trust                                                               : 101
+Peace Corps                                                                                         : 40739
+Pennsylvania Avenue Development Corporation                                                         : 36553
+Pension Benefit Guaranty Corporation                                                                : 209981
+Office of Personnel Management                                                                      : 827129
+Postal Regulatory Commission                                                                        : 102150
+United States Postal Service                                                                        : 207015
+Presidio Trust                                                                                      : 43483
+Privacy and Civil Liberties Oversight Board                                                         : 10763
+Railroad Retirement Board                                                                           : 242217
+Securities and Exchange Commission                                                                  : 1170184
+Selective Service System                                                                            : 49781
+Small Business Administration                                                                       : 477062
+Smithsonian Institution                                                                             : 2443
+Social Security Administration                                                                      : 861193
+Office of Special Counsel                                                                           : 15376
+Department of State                                                                                 : 436138
+Surface Transportation Board                                                                        : 206402
+Susquehanna River Basin Commission                                                                  : 26899
+Tennessee Valley Authority                                                                          : 106511
+Department of Transportation                                                                        : 30396
+Department of Treasury                                                                              : 63311
+Office of United States Trade Representative                                                        : 31339
+Utah Reclamation Mitigation and Conservation Commission                                             : 21819
+Department of Veterans Affairs                                                                      : 960816
+Office of Vice President of the United States                                                       : 3055
+Water Resources Council                                                                             : 28977
+President's Commission on White House Fellowships                                                   : 1457
