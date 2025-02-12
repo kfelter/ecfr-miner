@@ -4,6 +4,10 @@ This application will mine all of the eCFR regulations out of the public eCFR ap
 
 The purpose of this application is to provide insights into the US regulations in a data driven application. This should be used to justify regulatory changes, and to provide a better understanding of the regulations that govern our lives.
 
+In this project I would have liked to include all data that goes back to 1996, but I was only able to scrape the data from the public api going back to 2017, some worked for 2016 but not enough for the whole set of titles. This data exists on other sites like https://www.govinfo.gov/app/collection/cfr/2024/ but it looks like they changed the XML format from the eCFR and it would have required reverse engineering another parser. Another challenge I faced was that the public api claimed to support fetching individual titles but it did not work correctly. I had to download all 50 titles and parse them locally. Some of the titles did not download from the api, facing errors like 504 Gateway Timeout. Notably title 40, I was only able to get data from 2025 on title 40 and copied that file accross all past years. This should be fixed by downloading the regulations from alternative sources and parsing it differently.
+
+If I spent more time on this project I would download all data from 1996 and place it into a SQL database for improved query performance, I would probably implement LLM summaries, and use LLMs to decipher some of the legal speak, while bringing in context from any regulations that are referenced in the regulation. This would be a useful tool for reducing regulations without risking the safety of the public. To scale this application I would have backend servers to handle requests for json data that the static react frontend makes, along with caching the responses and intellegent indexes in the SQL database.
+
 ## Quickstart
 
 1. Run the miner to download all the xml files. This is necessary because the eCFR api does not correctly support filtering by chapter for a title, so we have to download all 50 titles and parse them locally.
