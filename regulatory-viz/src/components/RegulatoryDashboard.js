@@ -223,6 +223,22 @@ const nodePositions = useRef(new Map()); // Store positions for each agency
       <div className="w-full mx-auto p-8 bg-white rounded-lg shadow-lg space-y-8 text-gray-900">
         <h1 className="text-4xl font-bold text-center mb-8 text-gray-900">Federal Regulations Analysis Dashboard</h1>
         <div>
+<div className="flex justify-center gap-4 mb-8">
+    <a 
+        href="/titles_all.csv" 
+        download 
+        className="px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700 transition"
+    >
+        Download Agency Data (CSV)
+    </a>
+    <a 
+        href="/titles_totals.csv" 
+        download 
+        className="px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700 transition"
+    >
+        Download Totals Data (CSV)
+    </a>
+</div>
             <h2 className="text-2xl font-bold text-center mb-4 text-gray-900">Annual Change in Total Word Count</h2>
             <div className="h-80">
                 <ResponsiveContainer width="80%" height="100%" className="mx-auto">

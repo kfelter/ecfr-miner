@@ -8,6 +8,8 @@ In this project I would have liked to include all data that goes back to 1996, b
 
 If I spent more time on this project I would download all data from 1996 and place it into a SQL database for improved query performance, I would probably implement LLM summaries, and use LLMs to decipher some of the legal speak, while bringing in context from any regulations that are referenced in the regulation. This would be a useful tool for reducing regulations without risking the safety of the public. To scale this application I would have backend servers to handle requests for json data that the static react frontend makes, along with caching the responses and intellegent indexes in the SQL database.
 
+I would have also liked to allow a user to download the full dump of the data but even GZIPPED its about 2GB and its too much for me to upload and host for free on my website.
+
 ## Quickstart
 
 1. Run the miner to download all the xml files. This is necessary because the eCFR api does not correctly support filtering by chapter for a title, so we have to download all 50 titles and parse them locally.
